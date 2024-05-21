@@ -1,10 +1,8 @@
-<div align="center">
-<h1 align="center">
 
     
-![Cover](https://github.com/ilakshaygupt/Soundly-Backend/assets/99826011/4af19f66-a134-4dae-b7ac-b3cdf95a6d6c)
 
-<br>SOUNDLY-BACKEND</h1>
+
+<br>MELODY</h1>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
